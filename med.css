@@ -2,9 +2,4 @@ body
 {
   background-color: blue;
 }
-@media only screen and (max-width: 760px) {
-body
-{
-  background-color: pink;
-}
-}
+
